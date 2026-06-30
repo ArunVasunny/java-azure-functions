@@ -1,0 +1,8 @@
+# Azure Functions
+local.settings.json
+
+# Build output
+target/
+
+# VS Code
+.vscode/
